@@ -1,0 +1,18 @@
+{
+  "name": "svg-fixer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "svgfixer": "./bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "oslllo-svg-fixer": "^2.2.0"
+  }
+}
