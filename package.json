@@ -13,6 +13,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "oslllo-svg-fixer": "^2.2.0"
+    "oslllo-svg-fixer": "^5.0.0"
   }
 }
